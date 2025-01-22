@@ -25,6 +25,7 @@ bash
 Copy
 cd weather-forecast-app  
 Open index.html in your browser to view the app.
+
 🌐 Live Demo
 Check out the live version: https://forecastsweathers.netlify.app/
 
