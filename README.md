@@ -26,7 +26,7 @@ Copy
 cd weather-forecast-app  
 Open index.html in your browser to view the app.
 🌐 Live Demo
-Check out the live version: Netlify Link
+Check out the live version: https://forecastsweathers.netlify.app/
 
 📽️ Demo Video
 https://github.com/user-attachments/assets/cbdc409f-4ff8-4eac-a1ff-930a02f8a083
