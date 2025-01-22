@@ -19,7 +19,7 @@ Hosting: Netlify
 Clone this repository:
 bash
 Copy
-git clone https://github.com/your-username/weather-forecast-app.git  
+git clone https://github.com/maitiachintya/weatherforecastapp
 Navigate to the project directory:
 bash
 Copy
